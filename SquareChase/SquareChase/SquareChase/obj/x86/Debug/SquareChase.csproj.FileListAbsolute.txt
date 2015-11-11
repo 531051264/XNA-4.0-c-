@@ -1,0 +1,7 @@
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.exe
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.pdb
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.csprojResolveAssemblyReference.cache
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.exe
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.pdb
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\SQUARE.xnb

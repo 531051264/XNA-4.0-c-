@@ -1,0 +1,1 @@
+G:\GitHub\XNA-4.0-c-\SquareChase\SquareChase\SquareChaseContent\obj\x86\Debug\SquareChaseContent.contentprojResolveAssemblyReference.cache
